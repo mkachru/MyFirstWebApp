@@ -1,0 +1,3 @@
+C:\git\MyFirstAzureWebApp\bin\Debug\net5.0\MyFirstAzureWebApp.exe
+C:\git\MyFirstAzureWebApp\bin\Debug\net5.0\MyFirstAzureWebApp.dll
+C:\git\MyFirstAzureWebApp\bin\Debug\net5.0\MyFirstAzureWebApp.Views.dll

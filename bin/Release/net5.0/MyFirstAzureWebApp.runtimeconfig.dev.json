@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\madhuka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\madhuka\\.nuget\\packages"
+    ]
+  }
+}
